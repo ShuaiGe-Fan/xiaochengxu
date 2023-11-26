@@ -2,7 +2,7 @@
 <navigation-bar title="点我的title" back="{{false}}" color="black" background="#FFF"></navigation-bar>
 <scroll-view class="scrollarea" scroll-y type="list">
   <view class="container">
-    我是img
+    1125
     <button bindtap="navigateToNewPage">点我</button>
     <view class="usermotto">
       <text class="user-motto">{{motto}}</text>
